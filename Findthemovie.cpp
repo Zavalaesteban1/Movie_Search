@@ -1,21 +1,3 @@
-/////////////////////////////////////////////////////////////////////
-//
-// Name: Esteban Zavala
-// Date: 4/25/28
-// Class: CSCI 1470.06
-// Semester: Spring 2023
-// CSCI 1470 Instructor: Gustavo Dietrich
-//
-// Program Description: Enter here your description of what the program does
-//
-/*
-
-
-
-
-*/
-/////////////////////////////////////////////////////////////////////
-
 #include<iostream>
 #include<iomanip>
 #include<fstream>
